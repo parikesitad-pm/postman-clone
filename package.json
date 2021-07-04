@@ -1,0 +1,27 @@
+{
+  "name": "postman-clone",
+  "version": "1.0.0",
+  "description": "Postman Clone learn",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev"
+  },
+  "keywords": [
+    "Postman",
+    "Clone",
+    "postmanclone"
+  ],
+  "author": "ParikesitAD",
+  "license": "MIT",
+  "dependencies": {
+    "@codemirror/basic-setup": "^0.18.2",
+    "@codemirror/commands": "^0.18.3",
+    "@codemirror/lang-json": "^0.18.0",
+    "@codemirror/view": "^0.18.17",
+    "@popperjs/core": "^2.9.2",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.2",
+    "pretty-bytes": "^5.6.0",
+    "snowpack": "^3.7.1"
+  }
+}
